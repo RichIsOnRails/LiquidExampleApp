@@ -1,0 +1,3 @@
+== README
+
+Liquid Template Engine example app.  See http://richonrails.com/articles/liquid-templating-engine for details.
